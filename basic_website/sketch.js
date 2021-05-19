@@ -23,7 +23,7 @@ const HIGH_VOLUME = 0.2;
 const imageFileNames = ['level1.png', 'level2.png', 'level3.png', 'level4.png', 'level5.png'
 ]
 
-
+ 
 function preload() {
   imageFileNames.forEach((imgFileName) => {
     images.push(loadImage('/img/' + imgFileName));
