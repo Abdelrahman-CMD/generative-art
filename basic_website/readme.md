@@ -29,19 +29,25 @@ Tijdens mijn eerste peer-feedback op school, las ik terug dat iedreen mijn conce
 `Schrijf hier een klein logboekje met je voortgang per week.`
 
 ### Week-1
-`Tijdens mijn eerste poging was ik instaat om een canvas te maken met een grijs achtergrond. Waarbij ik ook een line met een bepaalde dikte had toegevoegd, die verscheen zodra je je linkermuisknop indrukte en begon te slepen. Dit was meer de basis. Je kon in ieder geval wel tekenen, maar ik kon nog niks clearen, dus moest ik steeds de hele code opnieuw laden om het te demonstreren en ik had nog geen random functie in mijn code staan. 
+`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+
+'Tijdens mijn eerste poging was ik instaat om een canvas te maken met een grijs achtergrond. Waarbij ik ook een line met een bepaalde dikte had toegevoegd, die verscheen zodra je je linkermuisknop indrukte en begon te slepen. Dit was meer de basis. Je kon in ieder geval wel tekenen, maar ik kon nog niks clearen, dus moest ik steeds de hele code opnieuw laden om het te demonstreren en ik had nog geen random functie in mijn code staan. 
 
 In principe was dit een goed begin. Het was nu belangrijk om mij verder te verdiepen in de mogelijkheden qua randomizen, andere functies en clearen.`
 
 ### Week-2
-Na wat coding train filmpjes te hebben bekeken, wist ik ineens veel meer over p5. Ik was instaat om de canvas te clearen en bij het clearen een random opdracht uit te voeren waarbij de background steeds veranderd bij het clearen. Het clearen kon met een willekeurige toets op je toetsenbord. Daarnaast was de stroke niet meer zwart. Ook hier heb ik een randomize code toegevoegd die er voor zorgt dat de stroke steeds een andere kleur krijgt. Dit wekt een kunst gevoel op vond ik en hierdoor zag de tekening er steeds anders uit.
+`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+
+'Na wat coding train filmpjes te hebben bekeken, wist ik ineens veel meer over p5. Ik was instaat om de canvas te clearen en bij het clearen een random opdracht uit te voeren waarbij de background steeds veranderd bij het clearen. Het clearen kon met een willekeurige toets op je toetsenbord. Daarnaast was de stroke niet meer zwart. Ook hier heb ik een randomize code toegevoegd die er voor zorgt dat de stroke steeds een andere kleur krijgt. Dit wekt een kunst gevoel op vond ik en hierdoor zag de tekening er steeds anders uit.
 Het enige waar ik nog tegen aanliep was het inladen en laten herkennen van shapes. Als je een shape tekende kon ik er helaas niet voorzorgen dat dit herkend werd, waardoor ik ook geen tekeningen van mij kon koppelen en inladen. Hierdoor was mijn concept nog niet af. 
 
-Ik heb geprobeerd te spelen met een api van de ML5js website door een objectDetector te gebruiken, maar deze herkende alleen realistische objecten in images en de categorieeen waren ook beperkt bleek uit de dataset. 
+Ik heb geprobeerd te spelen met een api van de ML5js website door een objectDetector te gebruiken, maar deze herkende alleen realistische objecten in images en de categorieeen waren ook beperkt bleek uit de dataset.'
 
 ### Week-3
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
-Mijn concept is deels gewijzigd. Het inladen van tekeningen door het herkennen van shapes is me niet gelukt dus ben ik gaan kijken naar andere input mogelijkheden om bijvoorbeeld de stroke iets meer character te geven die getekend werd, maar ook om mijn tekeningen in te laden. Ik heb door het toevoegen van een pitchDetectoin model van CREPE ervoor gezorgd dat geluid dat via je mic binnenkomt van invloed is op de stroke dikte en kleuren, hierdoor kreeg je al een art-achtige tekening te zien op het moment dat je iets zij of afspeelde tijdens het tekenen met je muis. Daarnaast was het me ook gelukt om door middel van een een array en een aanroep functie, mijn tekeningen te laten verschijnen bij het behalen van een bepaalde frequency, hoe hoger de frequency, 
+
+'Mijn concept is deels gewijzigd. Het inladen van tekeningen door het herkennen van shapes is me niet gelukt dus ben ik gaan kijken naar andere input mogelijkheden om bijvoorbeeld de stroke iets meer character te geven die getekend werd, maar ook om mijn tekeningen in te laden. Ik heb door het toevoegen van een pitchDetectoin model van CREPE ervoor gezorgd dat geluid dat via je mic binnenkomt van invloed is op de stroke dikte en kleuren, hierdoor kreeg je al een art-achtige tekening te zien op het moment dat je iets zij of afspeelde tijdens het tekenen met je muis. Daarnaast was het me ook gelukt om door middel van een een array en een aanroep functie, mijn tekeningen te laten verschijnen bij het bereiken van een bepaalde frequency. 
+Ik heb dit concept aan mijn medestudenten gereviewed en kreeg positieve reacties. Ik ben zelf ook blij met hoe het uiteindelijk geworden is.'
 
 
 ## Bronnenlijst
