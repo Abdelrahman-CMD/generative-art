@@ -75,22 +75,7 @@ Link naar bron 8:
 
 P5js bronnen:
 Link naar bron 1:
-* https://p5js.org/reference/#/p5/background
-Link naar bron 2:
-* 
-Link naar bron 3:
-* 
-Link naar bron 4:
-* 
-Link naar bron 5:
-* 
-Link naar bron 6:
-* 
-Link naar bron 7:
-* 
-Link naar bron 8:
-* 
-
+* https://p5js.org/reference/
 
 
 
