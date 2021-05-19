@@ -26,7 +26,7 @@ const imageFileNames = ['level1.png', 'level2.png', 'level3.png', 'level4.png', 
  
 function preload() {
   imageFileNames.forEach((imgFileName) => {
-    images.push(loadImage('/img/' + imgFileName));
+    images.push(loadImage('//img/' + imgFileName));
   });
 }
 
