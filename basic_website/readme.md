@@ -46,6 +46,53 @@ Mijn concept is deels gewijzigd. Het inladen van tekeningen door het herkennen v
 
 ## Bronnenlijst
 
-* `Link naar bron 1`
-* `Link naar bron 2`
-* `Link naar bron 3`
+Ml5 bronnen:
+
+Link naar bron 1:
+* https://learn.ml5js.org/#/reference/pitch-detection
+Link naar bron 2:
+* https://learn.ml5js.org/#/reference/image-classifier
+Link naar bron 3:
+* https://learn.ml5js.org/#/reference/object-detector
+
+The coding train bronnen:
+Link naar bron 1:
+* https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1
+Link naar bron 2:
+* https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2
+Link naar bron 3:
+* https://www.youtube.com/watch?v=MXs1cOlidWs&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3&t=168s
+Link naar bron 4:
+* https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4&t=1256s
+Link naar bron 5:
+* https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5
+Link naar bron 6:
+* https://www.youtube.com/watch?v=TaN5At5RWH8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=31&t=307s
+Link naar bron 7:
+* https://www.youtube.com/watch?v=rO6M5hj0V-o&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=35
+Link naar bron 8:
+* https://www.youtube.com/watch?v=i2C1hrJMwz0&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=36&t=840s
+
+P5js bronnen:
+Link naar bron 1:
+* https://p5js.org/reference/#/p5/background
+Link naar bron 2:
+* 
+Link naar bron 3:
+* 
+Link naar bron 4:
+* 
+Link naar bron 5:
+* 
+Link naar bron 6:
+* 
+Link naar bron 7:
+* 
+Link naar bron 8:
+* 
+
+
+
+
+
+
