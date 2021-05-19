@@ -20,7 +20,7 @@ const model_url = 'https://cdn.jsdelivr.net/gh/ml5js/ml5-data-and-models/models/
 // high volume constante wordt gebruikt om de hoogte bij te houden van de volume
 const HIGH_VOLUME = 0.2;
 // lijst van imagefilenames voor het inladen van images
-const imageFileNames = ['level1.PNG', 'level2.PNG', 'level3.PNG', 'level4.png', 'level5.PNG'
+const imageFileNames = ['level1.png', 'level2.png', 'level3.PNG', 'level4.png', 'level5.png'
 ]
 
 
